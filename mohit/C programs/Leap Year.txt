@@ -1,0 +1,31 @@
+365 5 hrs 42 minutes
+
+year		year div by 400			year div by 4			year div by 100
+2000		T				T				T
+2021		F				F				F
+2020		F				T				F
+1900		F				T				T
+
+ax2 + bx + c=0
+a=?, b=?, c=?
+1. a=0 and b=0
+No equation
+
+2. a=0
+bx+c=0
+x=-c/b
+
+3. d=b*b - 4*a*c
+if d<0
+
+complex
+real part = -b/(2*a)
+imag part=sqrt(-d)/(2*a)
+else
+real
+d=sqrt(d)
+x1=(-b + d)/2
+x2=(-b-d)/2
+
+
+
